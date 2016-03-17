@@ -13,8 +13,17 @@ RF003: El sistema debe permitir la carga de materias
 
 __________________________________________________________
 
+
 requisitos no funcionales
 
 RNF001: El sistema debe ser rapido.
 RNF002: El sistema debe ser intuitivo.
 __________________________________________________________
+
+casos de uso:
+
+Cu001: Registrar Alumnos.
+Cu002: Registrar maestros.
+cu003: Imprimir Kardex
+
+____________________________________________________________
